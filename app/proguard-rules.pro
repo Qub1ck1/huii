@@ -1,0 +1,3 @@
+-keep class com.example.tgwsproxy.** { *; }
+-dontwarn okhttp3.**
+-dontwarn okio.**
